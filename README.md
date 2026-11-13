@@ -12,6 +12,7 @@
 
 ## 🎯 Highlights
 
+- **AI researcher who built 5 deep learning architectures (LSTM, GRU, CNN, Transformer, TCN) for underwater sensor prediction; paper accepted at AAIET 2025. Seeking ML research/engineering roles.**
 - **5 architectures benchmarked:** LSTM, GRU, CNN-1D, Transformer, TCN
 - **Key finding:** TCN best generalization (MSE 1.13°C) despite weaker test MSE
 - **Dual-model architecture:** Time-series forecaster + MLP validator (93% accuracy, 0.9291 F1)
